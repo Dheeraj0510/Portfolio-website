@@ -1,0 +1,211 @@
+[33m77c5be3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m initial portfolio
+[33m09f73e6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Initial RAG API implementation
+[33m466c5a0[m update resume
+[33me5e774c[m Remove click event from project image
+[33m374813c[m Conditionally render project website link
+[33ma75d76b[m Clear website URL in projects_web.json
+[33ma607490[m update resume, remove image borders
+[33m6d46f10[m resume
+[33m1bad632[m resume
+[33m87536a4[m tweaks to anim
+[33m4d1165c[m update resume, hero text, and mobile responsiveness
+[33mca62daf[m hero animation
+[33mb2a0722[m Update projects_web.json
+[33m05a62e3[m update resume
+[33m1231480[m revamped resume
+[33m829efe4[m secure url for og image
+[33m74d3227[m added og meta tags
+[33mb1d784e[m add aws experience, more updates and visual tweaks
+[33m77b07fa[m fix responsive design image
+[33m7ade8e4[m Update index.css
+[33mae67fc0[m fixes and new adidtions
+[33m2d270d2[m change resume, added zynga work experience
+[33m29edc94[m Create LICENSE
+[33me89ec34[m brave rewards, and content changes
+[33m43246bc[m update hero
+[33m0317a63[m small fix
+[33mc5a075b[m update info
+[33me26d645[m small change
+[33me3a4f3b[m use webp and webm format
+[33maaabc9c[m account for prefers reduced motion
+[33m3dc5b40[m tweak html semantics for proper a11y tree
+[33mba87bf8[m fix deploy
+[33macb8203[m improved styles
+[33mbf677bc[m fix grid experience mobile
+[33m2233f2f[m accessibility additions
+[33me036e5e[m fix resume colors
+[33m7678840[m fix build
+[33m309af41[m prep for build
+[33m554693e[m more content
+[33me6ca28a[m light theme updates
+[33m3d4f344[m all heading and animations done
+[33m91b68c9[m reveal text and headers revamp
+[33m6e50588[m more revamps
+[33ma48da64[m style change (major)
+[33m37bfdb5[m more changes and better responsive images
+[33m90429e6[m style changes
+[33m7fd1783[m scrollbar theme and fix route styles not working
+[33m871872d[m upgrade tw
+[33maf6adcd[m Update resume.js
+[33m8fce0fe[m resume changes
+[33mf0fad83[m added deans list scholar
+[33mb554568[m fix tailwind safelist
+[33m4cbbfae[m change resume colors
+[33m6b12fad[m update tailwind prune exceptions
+[33m1d92b6a[m remove --host
+[33mef5bd0c[m responsive styles
+[33m1511dd2[m inc.
+[33mf8def19[m update expereinces section
+[33m14e2433[m resume update
+[33m01175ea[m update designs border and color
+[33m360d8df[m added design section
+[33m72ac4c7[m Update how-i-made-my-own-cryptocurrency.md
+[33m5cac1f6[m mnemonic pic
+[33mfed28dd[m more visual tweaks
+[33mf19f58e[m lots of changes, images for article
+[33m610ade0[m fix mobile view of article, changed article words
+[33m76151f0[m dynamic article links
+[33mebba146[m added crypto article
+[33mee623b8[m more tweaks
+[33m9e6b06e[m remove blur filter
+[33m6c856d9[m reduced animations
+[33macaa4fd[m remove experience section
+[33m2cb13ba[m updated safelist tailwind prune
+[33ma013993[m added bobcoin
+[33m46bb009[m update counting markers
+[33m5a31793[m added experience section, and image animations
+[33m8df3b6b[m fix height
+[33m8ce635c[m updated w more game dev projects
+[33md3ed89b[m edit hero and subtitle text
+[33m2b1686b[m dark light toggle reversed
+[33m05598e2[m fix colors for light theme
+[33m51bdcb3[m more transitions and color changes
+[33m1ffd1bd[m animations for buttons and links styles
+[33m53ef6eb[m content and style changes
+[33m59eefb3[m dark theme forces, more animations for counters
+[33m9089565[m added logos
+[33md54ca7e[m fix links and images
+[33m5bf3b3f[m fix typo
+[33m68a2d8a[m Update projects.json
+[33m6eb3f41[m nav text home and logo link
+[33m170dbc7[m added codepen link
+[33m85062ec[m updated shadows, contact emails, resume
+[33m283a67b[m shadows and bg
+[33m5c40db9[m added countries of the world project, cleanup
+[33md539f71[m remove home from resume
+[33m07eeb64[m added favicon
+[33m55d2402[m resume update
+[33m705e32c[m move aka in newline
+[33mf41fe10[m tweak icons sizes
+[33m31e0d07[m navbar hover and fix
+[33m93e9802[m fixed animation timings
+[33m9377cc9[m fix postcss
+[33m8b597b7[m cleanup
+[33m758b74f[m refactor file structure
+[33mee5ea3e[m small resume update
+[33m3b46336[m added netlify redirect
+[33m8a3c0cf[m updated resume
+[33m09ca67d[m max widht text
+[33m98a3e02[m fixed image borders
+[33mff53d57[m more responsive stuff
+[33m257efda[m button colors
+[33ma6099ba[m adjusted hero anims
+[33m57e35b5[m update safelist
+[33mf5f828c[m Update GameDevProject.svelte
+[33m69ceb2f[m add dummy div to prevent purge
+[33mdba9041[m purge safelist
+[33m3e42eb4[m update transitions for game dev
+[33m12eb7ea[m adjusted responsive padding
+[33m2a18ac3[m game dev more and fixed layout
+[33m4392ae1[m added pathforge link
+[33md38c958[m remove incorrect links
+[33m2efe145[m change gradients pos mobile
+[33m9a87623[m fixed width problems
+[33m19ff95f[m navbar hover effect
+[33m6e8d177[m updated pathforge image
+[33me190fc8[m moving purple red gradient
+[33m97526c2[m updated about me
+[33mab784bb[m padding tweaks
+[33m0595c45[m coding styles to headings
+[33mb69766b[m small design tweaks
+[33m775d4f1[m some more animations for bg
+[33m87af942[m light theme for revamp
+[33mdd18500[m make revamps responsive
+[33m81a675c[m about me and web dev revamp
+[33m9171f6b[m revamp hero so much nicer
+[33m1e629dd[m arrow hover animation effect
+[33ma15181d[m fixed print for resume
+[33m1791193[m fix router for  mobile
+[33meb8cb1a[m routing fix?
+[33m3d2bf90[m refined animations
+[33m7ec4894[m small navbara nimations
+[33m81a88b4[m nice hero animations
+[33m9aba154[m temp remove design section
+[33m5f73d10[m navbar for resume page
+[33m03c4cac[m fixed scroll arrow styles
+[33mbc61024[m scroll to top and about
+[33me969d59[m more gradients
+[33m09aadf9[m added cool animated box
+[33mad265b5[m ignore previous two commits
+[33m7b70a6d[m Revert "quicksort in py and js"
+[33m4a0a4f4[m quicksort in py and js
+[33mde6f50d[m animation delays
+[33mc8df544[m faster animations
+[33m4ca9a95[m jsonity web dev projs
+[33m3be0924[m show more button working
+[33md4323ba[m jsonify projects
+[33m046499b[m fixed nav smaller
+[33m14d1171[m added simple animations on scroll
+[33m810bf79[m cleanup
+[33m0258a39[m navbar autohide when scrolling
+[33m2e7c743[m unlinked global stylesheet
+[33m48cf12b[m purged tailwind css
+[33m1576fad[m fix deploy fail
+[33m0035bbd[m more responsve stuff
+[33mcb354c6[m change breakpoisnts
+[33mf5f5d25[m more cleaner code
+[33m9dfad32[m cleanup
+[33mf6de089[m try new solution
+[33mf172b1b[m trya gain
+[33mb1edab2[m why u not working again
+[33m527d81d[m fix forms
+[33m6c0c03f[m change fonts
+[33m8b3b52a[m fixed resume
+[33m5fcfce4[m fixed contact form
+[33m5363cec[m on submit changes
+[33maf2c82f[m redid responsive sizings
+[33me11c191[m cleanup 1
+[33m4ab617a[m move form to sepearte file
+[33m4c2d2da[m fix form?
+[33me89981b[m contact form polish
+[33mc2742a5[m trty again
+[33m7255032[m readded recaptcha
+[33m7dceee1[m readded bot field
+[33m77888a0[m back to normal
+[33m8d25264[m try again
+[33m3821e26[m smalll fix
+[33m2f14d99[m recaptcha and honeybot
+[33m5020a27[m netlify forms hack
+[33m31d9467[m Update Contact.svelte
+[33m6e940a9[m configuring netlify forms
+[33mcb45962[m netlify forms
+[33m83a5147[m fixed theme for smaller screens
+[33m4da8c3d[m localstorage and os preferences for theming
+[33m6a9b8d0[m funfacts page and optimized video
+[33m304a83d[m print button working
+[33m0256a18[m small change to pading on xl
+[33mef1f448[m contact dark mode
+[33mb2865fe[m dark theme
+[33m19a1e8d[m navbar responsive
+[33m91920b3[m Update Resume.svelte
+[33mb37cc78[m okay final final its done
+[33m4925a0b[m move & to new line
+[33m758b335[m small tweaks in resume
+[33mf9c3a72[m link resume
+[33m4a01f0e[m resume done
+[33m29f3b5d[m resume almost done
+[33m3468812[m some responsive design
+[33m4947312[m upper case
+[33m9949d4b[m setup gh pages
+[33m0d61631[m ready for first deploy
+[33m04b5a63[m more chan
